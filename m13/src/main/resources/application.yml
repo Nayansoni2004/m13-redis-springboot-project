@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: m13
+  data:
+    redis:
+      url: redis-17723.c253.us-central1-1.gce.cloud.redislabs.com
+      port: 17723
+      username: default
+      password: bLLbAJUA8fp0oRSw73pUgcm9kzoIiyjn
+server:
+  port: 9090
