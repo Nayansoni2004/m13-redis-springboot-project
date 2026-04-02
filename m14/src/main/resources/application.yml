@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: m14
+  data:
+    redis:
+      url: redis-19914.c270.us-east-1-3.ec2.cloud.redislabs.com
+      port: 19914
+      username: default
+      password: S3mnQIYhUJGUfRU3KaZkw5qfFnSwvap1		
+server:
+  port: 9090
